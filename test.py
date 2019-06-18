@@ -1,6 +1,9 @@
 from numseq.fib import fib
-from numseq.geo import *
-from numseq.prime import *
+from numseq.geo import square
+from numseq.geo import cube
+from numseq.geo import triangle
+from numseq.prime import primes
+from numseq.prime import is_prime
 
 print ("Fibonacci")
 for i in range(10):
